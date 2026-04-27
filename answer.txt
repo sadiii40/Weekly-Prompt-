@@ -1,0 +1,8 @@
+Question 2:
+When rolling two dice, the histogram shows that results in the middle appear more than
+the ends. For two six sided dice, the most common result is 7 because there are more
+combinations that add up to 7 than other numbers. For two eight sided dice, the same
+pattern happens, but the range becomes larger. The middle values are still more frequent.
+In general, for two n-sided dice, the distribution always forms a shape that is low
+at the ends and highest in the middle. This happens because middle values have more 
+possible combinations than end values.
